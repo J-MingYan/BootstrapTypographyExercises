@@ -1,5 +1,5 @@
-# RWD切版練習 <h1>
-![GITHUB](https://j-mingyan.github.io/rwdPractise/rwdPractise/img/OfficialPictures.png "官方圖片")
+# Bootstrap切版練習 <h1>
+![GITHUB](https://j-mingyan.github.io/BootstrapTypographyExercises/BootstrapTypographyExercises/images/img/OfficialPictures.png "官方圖片")
 
 ## 使用技術
 * HTML、CSS
