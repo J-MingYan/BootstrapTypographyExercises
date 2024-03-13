@@ -14,7 +14,7 @@
 ## 練習連結
 第一版練習：[網址連結](https://j-mingyan.github.io/BootstrapTypographyExercises/BootstrapTypographyExercises/BootstrapPractise1.html)
 
-第二版練習：[網址連結](https://j-mingyan.github.io/BootstrapTypographyExercises/BootstrapTypographyExercises/BootstrapPractise1.html)
+第二版練習：[網址連結](https://j-mingyan.github.io/BootstrapTypographyExercises/BootstrapTypographyExercises/BootstrapPractise2.html)
 
 
 
